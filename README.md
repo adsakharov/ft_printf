@@ -1,3 +1,3 @@
-Recoding functoin printf
-
 # ft_printf
+
+Recoding functoin printf
